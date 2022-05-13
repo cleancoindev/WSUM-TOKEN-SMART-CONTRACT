@@ -14,7 +14,7 @@
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.2.2",
     "bignumber.js": "^7.2.1",
-    "chai": "^4.1.2",
+    "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
     "chai-bignumber": "^2.0.2",
     "crypto-balances": "^2.1.3",
