@@ -21,9 +21,9 @@
     "find-parent-dir": "^0.3.0",
     "openzeppelin-solidity": "^1.12.0",
     "rlp": "^2.1.0",
-    "solc": "^0.4.24",
-    "solhint": "^1.2.1",
+    "solc": "^0.5.11",
+    "solhint": "^1.4.0",
     "solidity-coverage": "^0.5.11",
-    "truffle": "^4.1.13"
+    "truffle": "^5.0.20"
   }
 }
